@@ -15,14 +15,6 @@ Este repositório contém o código-fonte de um microsserviço desenvolvido em K
 - Swagger: Ferramenta para design, construção, documentação e consumo de serviços da Web RESTful.
 
 
-## Estrutura do Projeto
-src/main/kotlin/com/lanchonete/pagamentos: Contém o código-fonte principal do microsserviço.
-
-src/test/kotlin/com/lanchonete/pagamentos: Contém os testes unitários para validar o comportamento do microsserviço.
-
-src/main/resources: Contém os recursos de configuração, incluindo arquivos de propriedades.
-
-
 ## Configuração e Execução
 
 ### 1 - Configuração do Banco de Dados:
